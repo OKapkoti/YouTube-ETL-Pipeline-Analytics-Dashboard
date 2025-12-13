@@ -1,0 +1,8 @@
+streamlit
+boto3
+s3fs
+pyarrow
+pandas
+plotly
+wordcloud
+matplotlib
