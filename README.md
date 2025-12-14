@@ -7,6 +7,7 @@ An end-to-end cloud-based data engineering project designed to process, transfor
 This project automates the extraction and analysis of large volumes of YouTube trending data across multiple regions and categories. The goal is to create a scalable, production-style data pipeline and visualize meaningful insights such as engagement trends, category performance, and top videos.
 
 🏗️ Architecture Summary
+
 1️⃣ Data Ingestion
 
 Raw YouTube trending datasets stored in AWS S3 (Raw Layer)
